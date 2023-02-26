@@ -6,8 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font: 'Raleway', sans-serif;
-  color: rgba(0,0,0,.5);
-	background: linear-gradient(to right, red , yellow); 
+  color: rgba(0, 0, 0, 0.664);
+	/* background: linear-gradient(to right, red , yellow);  */
 }
 
 code {
